@@ -1,0 +1,15 @@
+*.class
+*.txt
+*.jar
+
+test/
+test
+Test.java
+
+
+#Saved NumJa file extention 
+*.njz
+
+
+data/
+test.py
